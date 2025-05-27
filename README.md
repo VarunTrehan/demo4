@@ -1,2 +1,3 @@
 # demo4
-This is an Demo Project for class in SWC \n My name is Varun 
+This is an Demo Project for class in SWC 
+My name is Varun 
